@@ -32,6 +32,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   story_view: ^0.10.0
+  camera: ^0.5.8
+  path_provider: ^1.6.11
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
